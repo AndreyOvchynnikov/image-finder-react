@@ -1,4 +1,4 @@
 # Image finder App. 
-It's written on Vanilla Java Script (add infinite-scroll)
+It's written on React JS
 and use Pixabay API. 
 
